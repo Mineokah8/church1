@@ -416,7 +416,7 @@ backgrounds
 /* ============================================== */
 .abt-bg {
   background: linear-gradient(rgba(0, 0, 0, 0.596), rgba(0, 0, 0, 0.589)),
-    url(/img/IMG_2438.jpg) no-repeat;
+    url(/img/pple.jpeg) no-repeat;
 }
 .banner {
   height: 100vh;
@@ -427,10 +427,13 @@ backgrounds
   justify-content: center;
   align-items: center;
 }
-
+.ballery-bg {
+  background: linear-gradient(rgba(0, 0, 0, 0.596), rgba(0, 0, 0, 0.589)),
+    url(/img/choir.jpeg) no-repeat;
+}
 .gallery-bg {
   background: linear-gradient(rgba(0, 0, 0, 0.596), rgba(0, 0, 0, 0.589)),
-    url(/img/churchpeople.jpg) no-repeat;
+    url(/img/sermons.jpeg) no-repeat;
 }
 
 .give-bg {
@@ -440,7 +443,7 @@ backgrounds
 
 .connect-bg {
   background: linear-gradient(rgba(0, 0, 0, 0.472), rgba(0, 0, 0, 0.473)),
-    url(/img/pray.jpg) no-repeat;
+    url(/img/pple.jpeg) no-repeat;
 }
 
 .form-control:not(textarea) {
